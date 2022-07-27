@@ -10,23 +10,23 @@ https://docs.google.com/presentation/d/1RXjWLHrkDHce6-If8qvaSZ5e5GIwu3cWMNjM4B4l
 
 ### Visualization
 
-1. https://pawankumar2002.github.io/DS-CS224/html/visualization.html
-2. https://pawankumar2002.github.io/DS-CS224/html/piechart.html
+1. https://Sanjukumar8238.github.io/DS-CS224/html/visualization.html
+2. https://Sanjukumar8238.github.io/DS-CS224/html/piechart.html
 
 ### Hypothesis Testing
 
-1. https://pawankumar2002.github.io/DS-CS224/html/hypothesis/Clean_energy_&_sustainable_cities.html
-2. https://pawankumar2002.github.io/DS-CS224/html/hypothesis/Education_vs_Gender_Equality.html
-3. https://pawankumar2002.github.io/DS-CS224/html/hypothesis/Correlation_matrix.html
-4. https://pawankumar2002.github.io/DS-CS224/html/hypothesis/Economic_growth_vs_Innovation.html
+1. https://Sanjukumar8238.github.io/DS-CS224/html/hypothesis/Clean_energy_&_sustainable_cities.html
+2. https://Sanjukumar8238.github.io/DS-CS224/html/hypothesis/Education_vs_Gender_Equality.html
+3. https://Sanjukumar8238.github.io/DS-CS224/html/hypothesis/Correlation_matrix.html
+4. https://Sanjukumar8238.github.io/DS-CS224/html/hypothesis/Economic_growth_vs_Innovation.html
 
 ### Statistical Analysis
 
-https://pawankumar2002.github.io/DS-CS224/html/statistics.html
+https://Sanjukumar8238.github.io/DS-CS224/html/statistics.html
 
 ### ML Prediction
 
-https://pawankumar2002.github.io/DS-CS224/html/Prediction.html
+https://Sanjukumar8238.github.io/DS-CS224/html/Prediction.html
 
 #### Our Team
 
