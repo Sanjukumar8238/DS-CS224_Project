@@ -10,7 +10,7 @@ https://docs.google.com/presentation/d/1RXjWLHrkDHce6-If8qvaSZ5e5GIwu3cWMNjM4B4l
 
 ### Visualization
 
-1. https://Sanjukumar8238.github.io/DS-CS224_Project/html/visualization.html
+1. https://Sanjukumar8238/DS-CS224_Project/html/visualization.html
 2. https://Sanjukumar8238.github.io/ DS-CS224_Project/html/piechart.html
 
 ### Hypothesis Testing
